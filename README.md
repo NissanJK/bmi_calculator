@@ -10,7 +10,7 @@ Below are some screenshots showcasing the project in action:
 ![screenshot 1](assets/images/1.png) 
 ![screenshot 2](assets/images/2.png) 
 ![screenshot 3](assets/images/3.png) 
-![screenshot 4](assets/images/4.png) |
+![screenshot 4](assets/images/4.png) 
 
 ## Additional Information
 
